@@ -66,3 +66,7 @@ body div img  {
   border: 1px solid #000;
   box-sizing: border-box;
 }
+
+h4 .amiable {
+  background: linear-gradient(to right, #FFF, #000)
+}
